@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    margin-top: 0px;
+    font-size: 23px;
+    white-space: pre-line;
+}
+
+.div_speed{
+    float: left;
+}
+
+.div_volume{
+    float: right;
+}
+
+.play_button{
+    width: 130px;
+    font-size: 25px;
+    float: none;
+}
+
+canvas{
+    border: 5px solid lightblue;
+    border-radius: 20px;
+    margin-top: 140px;
+}
